@@ -1,0 +1,87 @@
+table {
+    height: 100vh;
+    width: 100%;
+    background-image: url(FundoImg.PNG);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.partedecima {
+    height: 100px;
+    background-color: #302F2F;
+}
+
+
+
+
+
+
+#Serpent {
+    width: 100px;
+
+
+}
+
+
+
+
+
+.partesite {
+
+    font-family: "Irish Grover", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #888585;
+    font-size: 500%;
+text-align: center;
+}
+
+body {
+    margin: 0%;
+}
+
+
+
+
+
+
+ 
+ .modelotxt{
+    
+
+    font-family: "Montagu Slab", serif;
+    font-optical-sizing: auto;
+    font-weight:weight;
+    font-style: normal;
+    font-size: 150%;
+    
+   color:#FFFFFF
+   
+ }
+
+ 
+
+ 
+ .formulario form{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 90px;
+    padding-left: 90px;
+    margin-right: 400px;
+    background-color: #302F2F;
+ }
+ 
+.forms{
+   
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+        color:#FFFFFF;
+        font-size: 150%;
+        
+    
+
+      
+}
